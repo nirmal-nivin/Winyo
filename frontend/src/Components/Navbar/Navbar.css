@@ -1,0 +1,6 @@
+.nav-menu-visible {
+    display: flex;
+}
+.open {
+    transform: rotate(90deg);
+}
